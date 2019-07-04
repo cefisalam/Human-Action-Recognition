@@ -8,7 +8,7 @@
 	3. Run the avi2matConvert.m to start Training and wait for a while before Training completes
 	4. a trained data is stored "trainFeatures.mat"
 
- #### NOTE: Training has been already performed and the result is stored  as "trainFeatures.mat"
+ ##### NOTE: Training has been already performed and the result is stored  as "trainFeatures.mat"
 
  For the Testing
 
